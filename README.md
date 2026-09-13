@@ -1,4 +1,4 @@
-# Project:Arai-60
+# Project: Arai-60
 [コーディング面接対策のために解きたいLeetCode 60問](https://1kohei1.com/leetcode/)
 
 ## Workflow
@@ -24,10 +24,10 @@
 
 ## Favorite repositories
 [思考]<br>
-[Author:ryosuketc](https://github.com/ryosuketc/leetcode_arai60/blob/main/README.md)
+[Author: ryosuketc](https://github.com/ryosuketc/leetcode_arai60/tree/main)
 
 [見本] <br>
-[Author:ryoooooory](https://github.com/ryoooooory/LeetCode)
+[Author: ryoooooory](https://github.com/ryoooooory/LeetCode)
 
 ## References
 
