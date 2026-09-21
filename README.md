@@ -41,5 +41,5 @@
 ## References
 [マニュアル](https://docs.google.com/document/d/1bjbOSs-Ac0G_cjVzJ2Qd8URoU_0BNirZ8utS3CUAeLE/edit?tab=t.0#heading=h.y1cq1o8g4nbl)<br>
 [コメント集](https://docs.google.com/document/d/11HV35ADPo9QxJOpJQ24FcZvtvioli770WWdZZDaLOfg/edit?tab=t.0#heading=h.gp4hkfr3qfqc)<br>
-[LeetCode 部の手引き](https://docs.google.com/document/d/1VUlKFLQJlmWgV8UE8BJ3o6Qy4qXb4E3zeGSz03kR5yE/edit?tab=t.0)
+[LeetCode 部の手引き](https://docs.google.com/document/d/1VUlKFLQJlmWgV8UE8BJ3o6Qy4qXb4E3zeGSz03kR5yE/edit?tab=t.0)<br>
 [Discord 課題共有用ch](https://discord.com/channels/1084280443945353267/1538494365171716106)
