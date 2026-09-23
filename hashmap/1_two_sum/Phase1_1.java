@@ -1,6 +1,6 @@
 /* TwoSum SolutionClass */
 class Solution {
-    public int[] twoSum(int nums[], int target) {
+    public int[] twoSum(int[] nums, int target) {
         // 配列の要素と要素を足し合わせる。合計がtargetと一致するか確認する方法。
         // 外側のfor文では以降の配列の要素と足し合わせる基準の数字を指定する
         for (int i = 0; i < nums.length; ++i) {
@@ -14,7 +14,7 @@ class Solution {
                 }
             }
         }
-        return new int[] {0, 0};
 
+        return new int[] {0, 0};
     }
-}
+}   

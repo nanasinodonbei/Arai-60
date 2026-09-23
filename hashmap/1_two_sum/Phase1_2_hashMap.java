@@ -6,7 +6,6 @@ import java.util.Map;
  *
  * Pattern HashMap
  */
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> result = new HashMap<>();

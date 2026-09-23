@@ -1,7 +1,7 @@
 /**
  * TwoSum SolutionClass
  * 
- * Pattarn BruteForce
+ * Pattern BruteForce
  */
 class Solution {
     public int[] twoSum(int[] nums, int target) {

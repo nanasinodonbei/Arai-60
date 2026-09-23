@@ -1,9 +1,8 @@
 /**
  * TwoSum Solution
  * 
- * Pattern BruteFouce
+ * Pattern BruteForce
  */
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length - 1; ++i) {
@@ -14,6 +13,7 @@ class Solution {
                     return new int[] { i, j };
             }
         }
+        
         return new int[] { 0, 0 };
     }
 }
