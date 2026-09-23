@@ -9,11 +9,12 @@ class Solution {
             for (int j = i + 1; j < nums.length; ++j) {
                 int total = nums[i] + nums[j];
 
-                if (target == total)
+                if (target == total) {
                     return new int[] { i, j };
+                }
             }
         }
-        
+
         return new int[] { 0, 0 };
     }
 }
