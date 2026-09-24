@@ -7,7 +7,6 @@ import java.util.ArrayList;
  * Pattern BruteForce
  */
 class Solution {
-
     public int[] instersectionTwoArrays(int[] nums1, int[] nums2) {
         List<Integer> result = new ArrayList<>();
 
@@ -31,8 +30,8 @@ class Solution {
                     if (!isDuplicate) {
                         result.add(nums1[i]);
                     }
-                
-                break;
+
+                    break;
                 }
             }
         }
