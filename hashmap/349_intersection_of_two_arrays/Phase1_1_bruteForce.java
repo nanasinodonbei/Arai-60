@@ -7,7 +7,7 @@ import java.util.ArrayList;
  * Pattern BruteForce
  */
 class Solution {
-    public int[] instersectionTwoArrays(int[] nums1, int[] nums2) {
+    public int[] intersectionTwoArrays(int[] nums1, int[] nums2) {
         List<Integer> result = new ArrayList<>();
 
         // 外側のfor文で基準となるnum1[]の要素を決める
