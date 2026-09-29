@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * 
  * Pattern HashSet
  */
-public class Solution {
+class Solution {
     public int[] intersectionTwoArrays(int[] nums1, int[] nums2) {
         Set<Integer> set1 = new HashSet<>();
         for (int num : nums1) {
