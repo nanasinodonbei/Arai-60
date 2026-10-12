@@ -5,7 +5,7 @@ import java.util.HashSet;
 /**
  * InstersectionTwoArrays Solution
  * 
- * ExtraPattern binarySearch
+ * ExtraPattern BinarySearch
  */
 class Solution {
     public int[] intersectionTwoArrays(int[] nums1, int[] nums2) {

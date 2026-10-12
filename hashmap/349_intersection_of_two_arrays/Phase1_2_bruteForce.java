@@ -2,9 +2,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Solution
+ * InstersectionTwoArrays Solution
  * 
- * Pattern bruteForce Ph2
+ * Pattern BruteForce
  */
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {

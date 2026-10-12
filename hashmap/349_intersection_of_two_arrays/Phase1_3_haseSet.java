@@ -4,7 +4,7 @@ import java.util.HashSet;
 /**
  * InstersectionTwoArrays Solution
  * 
- * ExtraPattern hashSet
+ * ExtraPattern HashSet
  */
 class Solution {
     public int[] intersectionTwoArrays(int[] nums1, int[] nums2) {

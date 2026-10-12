@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * InstersectionTwoArrays Solution
  * 
- * ExtraPattern twoPointers
+ * ExtraPattern TwoPointers
  */
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
