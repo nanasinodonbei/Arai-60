@@ -1,8 +1,12 @@
 import java.util.Set;
 import java.util.HashSet;
 
+/**
+ * InstersectionTwoArrays Solution
+ * 
+ * ExtraPattern hashSet
+ */
 class Solution {
-
     public int[] intersectionTwoArrays(int[] nums1, int[] nums2) {
         Set<Integer> nums1Set = new HashSet<>();
         for (int num : nums1) {

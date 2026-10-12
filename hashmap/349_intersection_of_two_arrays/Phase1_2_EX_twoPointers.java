@@ -9,12 +9,14 @@ import java.util.ArrayList;
  */
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
-        Arrays.sort(nums1);
-        Arrays.sort(nums2);
+        Arrays.sort(nums1); // O(n log n)
+        Arrays.sort(nums2); // O(m log m)
 
         List<Integer> resultList = new ArrayList<>();
         int i = 0, j = 0;
 
+        // ブルートフォースのフェーズ1がO(n × m)だったのに対し、
+        // ソートして両端から詰めたことで O(n + m)となる。
         while (i < nums1.length && j < nums2.length) {
             if (nums1[i] < nums2[j]) {
                 i++;

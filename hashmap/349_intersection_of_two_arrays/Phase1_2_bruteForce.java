@@ -25,7 +25,7 @@ class Solution {
                             break;
                         }
                     }
-                     // 重複する値がない場合、要素の値を追加する
+                    // 重複する値がない場合、要素の値を追加する
                     if (!alreadyFound) {
                         intersectionValues.add(candidate);
                         break;
@@ -33,6 +33,7 @@ class Solution {
                 }
             }
         }
+
         int[] intersectionArray = new int[intersectionValues.size()];
         int copyIndex = 0;
         // 一致した値を配列に詰める 
