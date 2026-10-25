@@ -28,9 +28,9 @@ class Solution {
     }
 
     private String normalize(String email) {
-        String[] parts = email.split(AT_SIGN, 2);
-        String domain = parts[1];
-        String local = parts[0].split(PLUS_SIGN)[0].replaceAll(DOT, "");
+        String[] emailParts = email.split(AT_SIGN, 2);
+        String domain = emailParts[1];
+        String local = emailParts[0].split(PLUS_SIGN)[0].replaceAll(DOT, "");
 
         return local + AT_SIGN + domain;
     }
