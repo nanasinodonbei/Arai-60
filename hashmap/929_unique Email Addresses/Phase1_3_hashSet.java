@@ -1,6 +1,10 @@
 import java.util.Set;
 import java.util.HashSet;
-
+/**
+ * Solution
+ * 
+ * Pattern HashSet
+ */
 class Solution {
     public int numUniqueEmails(String[] emails) {
         if (emails == null) {

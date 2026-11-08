@@ -1,6 +1,11 @@
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * Solution
+ * 
+ * Pattern HashSet
+ */
 class Solution {
     public int numUniqueEmails(String[] emails) {
         Set<String> result = new HashSet<>();

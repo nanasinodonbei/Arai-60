@@ -2,7 +2,7 @@ import java.util.List;
 import java.util.ArrayList;
 
 /**
- * UniqueEmailAddresses Solution
+ * Solution
  * 
  * bruteForce
  */
